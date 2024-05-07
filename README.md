@@ -1,1 +1,3 @@
-# mysql-tutorial
+# MySQL Tutorial
+
+Using MySQL RDBMS
